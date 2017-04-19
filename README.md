@@ -1,2 +1,2 @@
-# training
-Entrenamiento Java primer nivel
+# Java Training
+Este es un repositorio para el entrenamiento en Java.
